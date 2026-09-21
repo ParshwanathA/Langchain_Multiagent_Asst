@@ -31,6 +31,7 @@ def web_search(query : str) -> str:
     return "\n----\n".join(out)
 
 
+
 @tool
 def scrape_url(url: str) -> str:
     """
