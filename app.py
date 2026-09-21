@@ -95,7 +95,7 @@ html, body, [class*="css"] {
     background: rgba(255,255,255,0.06) !important;
     border: 1px solid rgba(56,189,248,0.25) !important;
     border-radius: 12px !important;
-    color: #f8fbff !important;
+    color: black !important;   /* ✅ Changed from #f8fbff to black */
     font-family: 'DM Sans', sans-serif !important;
     font-size: 1rem !important;
     padding: 0.8rem 1rem !important;
